@@ -1,8 +1,12 @@
 # Certificates
 
-REGex Software Service:-
+## REGex Software Service:-
 
 MEARN STACK 
+
+- You can Verify your certificate at https://verification.givemycertificate.com/v/7438d512-ae35-4a7c-af71-e2520d90815a
+
+- To download your certificate visit https://certificate.givemycertificate.com/c/7438d512-ae35-4a7c-af71-e2520d90815a
 
 ### Project :
 - Certificate Download Link: https://certificate.givemycertificate.com/c/7438d512-ae35-4a7c-af71-e2520d90815a
@@ -20,6 +24,7 @@ MEARN STACK
 
 - To download your certificate visit https://certificate.givemycertificate.com/c/1d040256-0e12-4f08-84e2-bc2b8dcf9264
 
+### Priject :
 - You can Verify your certificate at https://verification.givemycertificate.com/v/9996d604-179d-43eb-b7e5-f6f701a3b612
 
 - To download your certificate visit https://certificate.givemycertificate.com/c/9996d604-179d-43eb-b7e5-f6f701a3b612
